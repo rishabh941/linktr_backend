@@ -158,7 +158,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Feel free to contribute, suggest improvements, or report issues in the repository!
-
-Happy coding! 🚀
 
